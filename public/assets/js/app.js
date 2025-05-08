@@ -5,6 +5,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+import '../resources/css/app.css'; // if your JS is in src/
 
 (function() {
   "use strict";
